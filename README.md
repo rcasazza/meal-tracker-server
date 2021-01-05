@@ -1,15 +1,3 @@
-### back-end-template
+### Meal-Tracker Server
 
-- babel
-
-  - @babel/node
-  - @babel/core
-  - @babel/preset-env
-
-- express
-
-- nodemon
-
-- body-parser
-
-- MongoDB
+- using MERN stack
